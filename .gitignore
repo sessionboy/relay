@@ -4,7 +4,6 @@ npm-debug.log
 /dist/
 /lib/
 .idea
-docs
 flow
 meta
 packages
